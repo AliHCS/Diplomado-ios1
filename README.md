@@ -1,7 +1,7 @@
 # README
 
-Aqui estaran mis notas del diplomado de aplicaciones moviles
-Here goes my notes for the Diplomado de Aplicaciones Moviles
+Aqui estaran mis notas del diplomado de aplicaciones moviles IOS
+Here goes my notes for the Diplomado de Aplicaciones Moviles IOS
 
 #Primer Modulo
 #First Module
