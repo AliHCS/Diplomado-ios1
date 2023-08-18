@@ -5,7 +5,11 @@ Here goes my notes and the exercise  for the Diplomado de Aplicaciones Moviles I
 
 #Primer Modulo
 #First Module
-- MacOS - A cool OS and We learn somen cool Shortcut
+<<<<<<< HEAD
+- MacOS - We learn somen cool Shortcut
+=======
+- MacOS - A cool OS
+>>>>>>> update_module_topics
 - Constants and Variables - Constantes y Variables
 - Numbers - Numeros
 
